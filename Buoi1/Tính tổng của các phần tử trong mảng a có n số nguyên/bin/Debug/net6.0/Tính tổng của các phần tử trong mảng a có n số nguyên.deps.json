@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Tính tổng của các phần tử trong mảng a có n số nguyên/1.0.0": {
+        "runtime": {
+          "Tính tổng của các phần tử trong mảng a có n số nguyên.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tính tổng của các phần tử trong mảng a có n số nguyên/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

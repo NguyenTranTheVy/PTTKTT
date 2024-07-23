@@ -1,0 +1,14 @@
+D:\Pttktt\Code\Tính tổng của các phần tử trong mảng a có n số nguyên\bin\Debug\net6.0\Tính tổng của các phần tử trong mảng a có n số nguyên.exe
+D:\Pttktt\Code\Tính tổng của các phần tử trong mảng a có n số nguyên\bin\Debug\net6.0\Tính tổng của các phần tử trong mảng a có n số nguyên.deps.json
+D:\Pttktt\Code\Tính tổng của các phần tử trong mảng a có n số nguyên\bin\Debug\net6.0\Tính tổng của các phần tử trong mảng a có n số nguyên.runtimeconfig.json
+D:\Pttktt\Code\Tính tổng của các phần tử trong mảng a có n số nguyên\bin\Debug\net6.0\Tính tổng của các phần tử trong mảng a có n số nguyên.dll
+D:\Pttktt\Code\Tính tổng của các phần tử trong mảng a có n số nguyên\bin\Debug\net6.0\Tính tổng của các phần tử trong mảng a có n số nguyên.pdb
+D:\Pttktt\Code\Tính tổng của các phần tử trong mảng a có n số nguyên\obj\Debug\net6.0\Tính tổng của các phần tử trong mảng a có n số nguyên.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pttktt\Code\Tính tổng của các phần tử trong mảng a có n số nguyên\obj\Debug\net6.0\Tính tổng của các phần tử trong mảng a có n số nguyên.AssemblyInfoInputs.cache
+D:\Pttktt\Code\Tính tổng của các phần tử trong mảng a có n số nguyên\obj\Debug\net6.0\Tính tổng của các phần tử trong mảng a có n số nguyên.AssemblyInfo.cs
+D:\Pttktt\Code\Tính tổng của các phần tử trong mảng a có n số nguyên\obj\Debug\net6.0\Tính tổng của các phần tử trong mảng a có n số nguyên.csproj.CoreCompileInputs.cache
+D:\Pttktt\Code\Tính tổng của các phần tử trong mảng a có n số nguyên\obj\Debug\net6.0\Tính tổng của các phần tử trong mảng a có n số nguyên.dll
+D:\Pttktt\Code\Tính tổng của các phần tử trong mảng a có n số nguyên\obj\Debug\net6.0\refint\Tính tổng của các phần tử trong mảng a có n số nguyên.dll
+D:\Pttktt\Code\Tính tổng của các phần tử trong mảng a có n số nguyên\obj\Debug\net6.0\Tính tổng của các phần tử trong mảng a có n số nguyên.pdb
+D:\Pttktt\Code\Tính tổng của các phần tử trong mảng a có n số nguyên\obj\Debug\net6.0\Tính tổng của các phần tử trong mảng a có n số nguyên.genruntimeconfig.cache
+D:\Pttktt\Code\Tính tổng của các phần tử trong mảng a có n số nguyên\obj\Debug\net6.0\ref\Tính tổng của các phần tử trong mảng a có n số nguyên.dll
