@@ -1,0 +1,14 @@
+C:\Users\MyDell\Source\Repos\NguyenTranTheVy\PTTKTT\code\buoi2\2033216610_NguyenTranTheVy_Buoi2\bin\Debug\net6.0\timKiemNhinPhan.exe
+C:\Users\MyDell\Source\Repos\NguyenTranTheVy\PTTKTT\code\buoi2\2033216610_NguyenTranTheVy_Buoi2\bin\Debug\net6.0\timKiemNhinPhan.deps.json
+C:\Users\MyDell\Source\Repos\NguyenTranTheVy\PTTKTT\code\buoi2\2033216610_NguyenTranTheVy_Buoi2\bin\Debug\net6.0\timKiemNhinPhan.runtimeconfig.json
+C:\Users\MyDell\Source\Repos\NguyenTranTheVy\PTTKTT\code\buoi2\2033216610_NguyenTranTheVy_Buoi2\bin\Debug\net6.0\timKiemNhinPhan.dll
+C:\Users\MyDell\Source\Repos\NguyenTranTheVy\PTTKTT\code\buoi2\2033216610_NguyenTranTheVy_Buoi2\bin\Debug\net6.0\timKiemNhinPhan.pdb
+C:\Users\MyDell\Source\Repos\NguyenTranTheVy\PTTKTT\code\buoi2\2033216610_NguyenTranTheVy_Buoi2\obj\Debug\net6.0\timKiemNhinPhan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MyDell\Source\Repos\NguyenTranTheVy\PTTKTT\code\buoi2\2033216610_NguyenTranTheVy_Buoi2\obj\Debug\net6.0\timKiemNhinPhan.AssemblyInfoInputs.cache
+C:\Users\MyDell\Source\Repos\NguyenTranTheVy\PTTKTT\code\buoi2\2033216610_NguyenTranTheVy_Buoi2\obj\Debug\net6.0\timKiemNhinPhan.AssemblyInfo.cs
+C:\Users\MyDell\Source\Repos\NguyenTranTheVy\PTTKTT\code\buoi2\2033216610_NguyenTranTheVy_Buoi2\obj\Debug\net6.0\timKiemNhinPhan.csproj.CoreCompileInputs.cache
+C:\Users\MyDell\Source\Repos\NguyenTranTheVy\PTTKTT\code\buoi2\2033216610_NguyenTranTheVy_Buoi2\obj\Debug\net6.0\timKiemNhinPhan.dll
+C:\Users\MyDell\Source\Repos\NguyenTranTheVy\PTTKTT\code\buoi2\2033216610_NguyenTranTheVy_Buoi2\obj\Debug\net6.0\refint\timKiemNhinPhan.dll
+C:\Users\MyDell\Source\Repos\NguyenTranTheVy\PTTKTT\code\buoi2\2033216610_NguyenTranTheVy_Buoi2\obj\Debug\net6.0\timKiemNhinPhan.pdb
+C:\Users\MyDell\Source\Repos\NguyenTranTheVy\PTTKTT\code\buoi2\2033216610_NguyenTranTheVy_Buoi2\obj\Debug\net6.0\timKiemNhinPhan.genruntimeconfig.cache
+C:\Users\MyDell\Source\Repos\NguyenTranTheVy\PTTKTT\code\buoi2\2033216610_NguyenTranTheVy_Buoi2\obj\Debug\net6.0\ref\timKiemNhinPhan.dll

@@ -1,0 +1,14 @@
+D:\Pttktt\Code\Thuật toán nhân ma trận Strassen\bin\Debug\net6.0\Thuật toán nhân ma trận Strassen.exe
+D:\Pttktt\Code\Thuật toán nhân ma trận Strassen\bin\Debug\net6.0\Thuật toán nhân ma trận Strassen.deps.json
+D:\Pttktt\Code\Thuật toán nhân ma trận Strassen\bin\Debug\net6.0\Thuật toán nhân ma trận Strassen.runtimeconfig.json
+D:\Pttktt\Code\Thuật toán nhân ma trận Strassen\bin\Debug\net6.0\Thuật toán nhân ma trận Strassen.dll
+D:\Pttktt\Code\Thuật toán nhân ma trận Strassen\bin\Debug\net6.0\Thuật toán nhân ma trận Strassen.pdb
+D:\Pttktt\Code\Thuật toán nhân ma trận Strassen\obj\Debug\net6.0\Thuật toán nhân ma trận Strassen.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pttktt\Code\Thuật toán nhân ma trận Strassen\obj\Debug\net6.0\Thuật toán nhân ma trận Strassen.AssemblyInfoInputs.cache
+D:\Pttktt\Code\Thuật toán nhân ma trận Strassen\obj\Debug\net6.0\Thuật toán nhân ma trận Strassen.AssemblyInfo.cs
+D:\Pttktt\Code\Thuật toán nhân ma trận Strassen\obj\Debug\net6.0\Thuật toán nhân ma trận Strassen.csproj.CoreCompileInputs.cache
+D:\Pttktt\Code\Thuật toán nhân ma trận Strassen\obj\Debug\net6.0\Thuật toán nhân ma trận Strassen.dll
+D:\Pttktt\Code\Thuật toán nhân ma trận Strassen\obj\Debug\net6.0\refint\Thuật toán nhân ma trận Strassen.dll
+D:\Pttktt\Code\Thuật toán nhân ma trận Strassen\obj\Debug\net6.0\Thuật toán nhân ma trận Strassen.pdb
+D:\Pttktt\Code\Thuật toán nhân ma trận Strassen\obj\Debug\net6.0\Thuật toán nhân ma trận Strassen.genruntimeconfig.cache
+D:\Pttktt\Code\Thuật toán nhân ma trận Strassen\obj\Debug\net6.0\ref\Thuật toán nhân ma trận Strassen.dll

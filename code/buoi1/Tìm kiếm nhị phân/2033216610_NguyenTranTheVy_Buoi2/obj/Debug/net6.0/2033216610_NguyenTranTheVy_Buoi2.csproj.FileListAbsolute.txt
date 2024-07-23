@@ -1,0 +1,14 @@
+D:\Pttktt\Code\buoi2\2033216610_NguyenTranTheVy_Buoi2\bin\Debug\net6.0\2033216610_NguyenTranTheVy_Buoi2.exe
+D:\Pttktt\Code\buoi2\2033216610_NguyenTranTheVy_Buoi2\bin\Debug\net6.0\2033216610_NguyenTranTheVy_Buoi2.deps.json
+D:\Pttktt\Code\buoi2\2033216610_NguyenTranTheVy_Buoi2\bin\Debug\net6.0\2033216610_NguyenTranTheVy_Buoi2.runtimeconfig.json
+D:\Pttktt\Code\buoi2\2033216610_NguyenTranTheVy_Buoi2\bin\Debug\net6.0\2033216610_NguyenTranTheVy_Buoi2.dll
+D:\Pttktt\Code\buoi2\2033216610_NguyenTranTheVy_Buoi2\bin\Debug\net6.0\2033216610_NguyenTranTheVy_Buoi2.pdb
+D:\Pttktt\Code\buoi2\2033216610_NguyenTranTheVy_Buoi2\obj\Debug\net6.0\2033216610_NguyenTranTheVy_Buoi2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pttktt\Code\buoi2\2033216610_NguyenTranTheVy_Buoi2\obj\Debug\net6.0\2033216610_NguyenTranTheVy_Buoi2.AssemblyInfoInputs.cache
+D:\Pttktt\Code\buoi2\2033216610_NguyenTranTheVy_Buoi2\obj\Debug\net6.0\2033216610_NguyenTranTheVy_Buoi2.AssemblyInfo.cs
+D:\Pttktt\Code\buoi2\2033216610_NguyenTranTheVy_Buoi2\obj\Debug\net6.0\2033216610_NguyenTranTheVy_Buoi2.csproj.CoreCompileInputs.cache
+D:\Pttktt\Code\buoi2\2033216610_NguyenTranTheVy_Buoi2\obj\Debug\net6.0\2033216610_NguyenTranTheVy_Buoi2.dll
+D:\Pttktt\Code\buoi2\2033216610_NguyenTranTheVy_Buoi2\obj\Debug\net6.0\refint\2033216610_NguyenTranTheVy_Buoi2.dll
+D:\Pttktt\Code\buoi2\2033216610_NguyenTranTheVy_Buoi2\obj\Debug\net6.0\2033216610_NguyenTranTheVy_Buoi2.pdb
+D:\Pttktt\Code\buoi2\2033216610_NguyenTranTheVy_Buoi2\obj\Debug\net6.0\2033216610_NguyenTranTheVy_Buoi2.genruntimeconfig.cache
+D:\Pttktt\Code\buoi2\2033216610_NguyenTranTheVy_Buoi2\obj\Debug\net6.0\ref\2033216610_NguyenTranTheVy_Buoi2.dll
