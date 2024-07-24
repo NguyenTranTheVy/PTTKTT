@@ -1,0 +1,6 @@
+﻿  tinhTongMangKhongDeQuy.cpp
+C:\Users\MyDell\Documents\Zalo Received Files\Buoi3\Buoi3\tinhTongMang\tinhTongMangKhongDeQuy\tinhTongMangKhongDeQuy.cpp(17,12): warning C4566: character represented by universal-character-name '\u1ED5' cannot be represented in the current code page (1252)
+C:\Users\MyDell\Documents\Zalo Received Files\Buoi3\Buoi3\tinhTongMang\tinhTongMangKhongDeQuy\tinhTongMangKhongDeQuy.cpp(17,12): warning C4566: character represented by universal-character-name '\u1EA7' cannot be represented in the current code page (1252)
+C:\Users\MyDell\Documents\Zalo Received Files\Buoi3\Buoi3\tinhTongMang\tinhTongMangKhongDeQuy\tinhTongMangKhongDeQuy.cpp(17,12): warning C4566: character represented by universal-character-name '\u1EED' cannot be represented in the current code page (1252)
+C:\Users\MyDell\Documents\Zalo Received Files\Buoi3\Buoi3\tinhTongMang\tinhTongMangKhongDeQuy\tinhTongMangKhongDeQuy.cpp(17,12): warning C4566: character represented by universal-character-name '\u1EA3' cannot be represented in the current code page (1252)
+  tinhTongMangKhongDeQuy.vcxproj -> C:\Users\MyDell\Documents\Zalo Received Files\Buoi3\Buoi3\tinhTongMang\Debug\tinhTongMangKhongDeQuy.exe
