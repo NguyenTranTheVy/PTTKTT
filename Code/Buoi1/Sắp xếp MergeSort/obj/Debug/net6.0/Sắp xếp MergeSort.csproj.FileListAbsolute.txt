@@ -1,0 +1,14 @@
+D:\Pttktt\Code\Sắp xếp MergeSort\bin\Debug\net6.0\Sắp xếp MergeSort.exe
+D:\Pttktt\Code\Sắp xếp MergeSort\bin\Debug\net6.0\Sắp xếp MergeSort.deps.json
+D:\Pttktt\Code\Sắp xếp MergeSort\bin\Debug\net6.0\Sắp xếp MergeSort.runtimeconfig.json
+D:\Pttktt\Code\Sắp xếp MergeSort\bin\Debug\net6.0\Sắp xếp MergeSort.dll
+D:\Pttktt\Code\Sắp xếp MergeSort\bin\Debug\net6.0\Sắp xếp MergeSort.pdb
+D:\Pttktt\Code\Sắp xếp MergeSort\obj\Debug\net6.0\Sắp xếp MergeSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pttktt\Code\Sắp xếp MergeSort\obj\Debug\net6.0\Sắp xếp MergeSort.AssemblyInfoInputs.cache
+D:\Pttktt\Code\Sắp xếp MergeSort\obj\Debug\net6.0\Sắp xếp MergeSort.AssemblyInfo.cs
+D:\Pttktt\Code\Sắp xếp MergeSort\obj\Debug\net6.0\Sắp xếp MergeSort.csproj.CoreCompileInputs.cache
+D:\Pttktt\Code\Sắp xếp MergeSort\obj\Debug\net6.0\Sắp xếp MergeSort.dll
+D:\Pttktt\Code\Sắp xếp MergeSort\obj\Debug\net6.0\refint\Sắp xếp MergeSort.dll
+D:\Pttktt\Code\Sắp xếp MergeSort\obj\Debug\net6.0\Sắp xếp MergeSort.pdb
+D:\Pttktt\Code\Sắp xếp MergeSort\obj\Debug\net6.0\Sắp xếp MergeSort.genruntimeconfig.cache
+D:\Pttktt\Code\Sắp xếp MergeSort\obj\Debug\net6.0\ref\Sắp xếp MergeSort.dll

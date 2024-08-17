@@ -1,0 +1,14 @@
+D:\Pttktt\Code\2033216610_NguyenTranTheVy\bin\Debug\net6.0\SapXepTangDan.exe
+D:\Pttktt\Code\2033216610_NguyenTranTheVy\bin\Debug\net6.0\SapXepTangDan.deps.json
+D:\Pttktt\Code\2033216610_NguyenTranTheVy\bin\Debug\net6.0\SapXepTangDan.runtimeconfig.json
+D:\Pttktt\Code\2033216610_NguyenTranTheVy\bin\Debug\net6.0\SapXepTangDan.dll
+D:\Pttktt\Code\2033216610_NguyenTranTheVy\bin\Debug\net6.0\SapXepTangDan.pdb
+D:\Pttktt\Code\2033216610_NguyenTranTheVy\obj\Debug\net6.0\SapXepTangDan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pttktt\Code\2033216610_NguyenTranTheVy\obj\Debug\net6.0\SapXepTangDan.AssemblyInfoInputs.cache
+D:\Pttktt\Code\2033216610_NguyenTranTheVy\obj\Debug\net6.0\SapXepTangDan.AssemblyInfo.cs
+D:\Pttktt\Code\2033216610_NguyenTranTheVy\obj\Debug\net6.0\SapXepTangDan.csproj.CoreCompileInputs.cache
+D:\Pttktt\Code\2033216610_NguyenTranTheVy\obj\Debug\net6.0\SapXepTangDan.dll
+D:\Pttktt\Code\2033216610_NguyenTranTheVy\obj\Debug\net6.0\refint\SapXepTangDan.dll
+D:\Pttktt\Code\2033216610_NguyenTranTheVy\obj\Debug\net6.0\SapXepTangDan.pdb
+D:\Pttktt\Code\2033216610_NguyenTranTheVy\obj\Debug\net6.0\SapXepTangDan.genruntimeconfig.cache
+D:\Pttktt\Code\2033216610_NguyenTranTheVy\obj\Debug\net6.0\ref\SapXepTangDan.dll
